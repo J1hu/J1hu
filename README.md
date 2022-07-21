@@ -1,1 +1,1 @@
-<h1 align="center">Proud to be a patatas🥔</h1>
+<h1 align="center">🥔</h1>
